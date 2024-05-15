@@ -1,0 +1,47 @@
+
+header {
+    background-color: orange;
+    color: #fff;
+    text-align: center;
+}
+.minha-imagem {
+    position: absolute;
+    bottom: 220px;
+    right: 25em; 
+    width: 300px; 
+    height: auto; 
+    border: 2px solid black;
+    border-radius: 10px; 
+}
+
+letter {
+    position: absolute;
+    right: 50em;
+    width: 300px;
+}
+
+birth{
+    position: absolute;
+    right: 18em;
+    width: 100px;
+    height: auto; 
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+death{
+    position: absolute;
+    right: 10em;
+    width: 100px;
+    height: auto; 
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+meaning{
+    position: absolute;
+    right: 33em;
+    width: 400px;
+    bottom: -30%;
+}
+
